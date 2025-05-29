@@ -3,3 +3,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BeanBotWare/FreakBob/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealAvrwm/Projects/main/Xeno%20MVSD%20script.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/leenZzZzZ/ScriptHUB/main/Script%20Hub"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zayn31214/name/refs/heads/main/SterlingNew"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aceurss/AcxScripter/refs/heads/main/FakeWallHopScript"))()
