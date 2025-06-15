@@ -5,3 +5,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/leenZzZzZ/ScriptHUB/m
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Zayn31214/name/refs/heads/main/SterlingNew"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aceurss/AcxScripter/refs/heads/main/FakeWallHopScript"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/StealaBaddie"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TexRBLX/Roblox-stuff/refs/heads/main/block%20tales/revamp.lua"))()
